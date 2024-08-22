@@ -1,4 +1,9 @@
-## Hi there 👋
+## Personal Project
+
+
+## Team Project
+- [Beyond Mind](https://github.com/sangyeons57/sangyeons57/edit/main/README.md) - 왁타버스 고공전 팀프로젝트 3d 탑다운 rpg 게임 \[서브 개발자]
+
 
 <!--
 **sangyeons57/sangyeons57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
