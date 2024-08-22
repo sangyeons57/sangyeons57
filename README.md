@@ -2,7 +2,7 @@
 
 
 ## Team Project
-- [Beyond Mind](https://github.com/sangyeons57/sangyeons57/edit/main/README.md) - 왁타버스 고공전 팀프로젝트 3d 탑다운 rpg 게임 \[서브 개발자]
+- [Beyond Mind](https://github.com/sangyeons57/sangyeons57/blob/main/TeamProject/BeyondMind.md) - 왁타버스 고공전 팀프로젝트 3d 탑다운 rpg 게임 \[서브 개발자]
 
 
 <!--
