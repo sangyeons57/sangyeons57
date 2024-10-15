@@ -20,7 +20,7 @@
 
 ### 참조
 - [왁물원 후기](https://cafe.naver.com/steamindiegame/17587888)
-- 게임 배포 (후추 필요)
+- [왁물원 배포](https://cafe.naver.com/steamindiegame/18083305)
 
 
 ### 느낀점
