@@ -4,6 +4,7 @@
 ## Team Project
 - [Beyond Mind](https://github.com/sangyeons57/sangyeons57/blob/main/TeamProject/BeyondMind.md) - 왁타버스 고공전 팀프로젝트 3d 탑다운 rpg 게임 \[서브 개발자]
 - [시간이 문득](https://github.com/sangyeons57/sangyeons57/blob/main/TeamProject/%EC%8B%9C%EA%B0%84%EC%9D%B4%20%EB%AC%B8%EB%93%9D) - 이세돌 3주년 VRC 애니매이션 제공용 프로젝트
+- [수제 에셋 공방](https://github.com/sangyeons57/sangyeons57/blob/main/TeamProject/VRCWorkshop) - 개발자들이 쉽게 사용할수있는 에셋 혹은 프리펩 제공 프로젝트
 
 
 <!--
